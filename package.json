@@ -1,0 +1,18 @@
+{
+  "name": "dupes",
+  "version": "1.0.0",
+  "description": "find duplicate files in directory structure(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "dupes",
+    "duplicates",
+    "directory",
+    "directories"
+  ],
+  "author": "tony scavone",
+  "license": "ISC"
+}
